@@ -1,4 +1,7 @@
 real_data/
-pipeline/dataset/
+dataset/
 __pycache__
 venv
+KIC9650712_ZTF_irregular_lc.json
+ozken_rps_copy.ipynb
+Ozken_RPs.ipynb
